@@ -1,4 +1,10 @@
 el gato con botas
 
+<<<<<<< HEAD
 El famoso gato tiene la aventura de su vida cuando une fuerzas con Humpty Dumpty 
 y la gata Kitty para robarse al ganso de los huevos de oro.
+=======
+
+el gato era un heroe
+salvo muchas vidas en sus 7 vidas
+>>>>>>> c40035078e2e35010d67dd5b41292e872904a9e6
