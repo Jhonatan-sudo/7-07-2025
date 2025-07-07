@@ -1,3 +1,10 @@
 07.07.2025
+<<<<<<< HEAD
 elun lobo felizz 
 que queria volar 
+=======
+el lobo
+lorem ipsum 
+el obo queria ser feliz
+queria volar 
+>>>>>>> 7fc279736c88f1296daec0d208be865efdd9248c
